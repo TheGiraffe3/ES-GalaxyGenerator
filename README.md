@@ -35,6 +35,39 @@ latest 5 generated galaxies:<br>
 <table>
   <tr>
     <td width=200>
+      name: Oogibara<br>
+      <br>
+      pos: (59106, -1057)<br>
+      systems: 51<br>
+      planets: 40<br>
+      races: 3<br>
+      wormhole: Sol<br>
+      sunmax: 3<br>
+      planetmax: 8<br>
+      minablemax: 4<br>
+      image: fornax<br>
+      starradius: 100<br>
+      density: 5<br>
+      tries: 15<br>
+    </td>
+    <td width=200>
+      plugin:<br><a href="https://github.com/zuckung/ES-GalaxyGenerator/releases/download/Latest/Oogibara0.zip">Oogibara0.zip</a><br>
+      <br>
+      <br>
+      <a href="generated/Oogibara0/MapGenSystems.txt">MapGenSystems.txt</a><br>
+      <a href="generated/Oogibara0/MapGenPlanets.txt">MapGenPlanets.txt</a><br>
+      <a href="generated/Oogibara0/MapGenStuff.txt">MapGenStuff.txt</a><br>
+    </td>
+    <td width=300>
+      <a href="generated/Oogibara0/MapGenMap.jpg"> <img src='generated/Oogibara0/miniMapGenMap.jpg' width='300'></a>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td width=200>
       name: Tester<br>
       <br>
       pos: (-10000, -10000)<br>
@@ -159,39 +192,6 @@ latest 5 generated galaxies:<br>
     </td>
     <td width=300>
       <a href="generated/zuckung3/MapGenMap.jpg"> <img src='generated/zuckung3/miniMapGenMap.jpg' width='300'></a>
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td width=200>
-      name: Tester<br>
-      <br>
-      pos: (-10000, -10000)<br>
-      systems: 200<br>
-      planets: 300<br>
-      races: 0<br>
-      wormhole: Sol<br>
-      sunmax: 3<br>
-      planetmax: 5<br>
-      minablemax: 3<br>
-      image: messier<br>
-      starradius: 100<br>
-      density: 5<br>
-      tries: 15<br>
-    </td>
-    <td width=200>
-      plugin:<br><a href="https://github.com/zuckung/ES-GalaxyGenerator/releases/download/Latest/Tester0.zip">Tester0.zip</a><br>
-      <br>
-      <br>
-      <a href="generated/Tester0/MapGenSystems.txt">MapGenSystems.txt</a><br>
-      <a href="generated/Tester0/MapGenPlanets.txt">MapGenPlanets.txt</a><br>
-      <a href="generated/Tester0/MapGenStuff.txt">MapGenStuff.txt</a><br>
-    </td>
-    <td width=300>
-      <a href="generated/Tester0/MapGenMap.jpg"> <img src='generated/Tester0/miniMapGenMap.jpg' width='300'></a>
     </td>
   </tr>
 </table>
