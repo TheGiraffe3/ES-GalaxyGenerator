@@ -35,6 +35,39 @@ latest 5 generated galaxies:<br>
 <table>
   <tr>
     <td width=200>
+      name: Zigali<br>
+      <br>
+      pos: (85015, 3010)<br>
+      systems: 315<br>
+      planets: 401<br>
+      races: 4<br>
+      wormhole: Sol<br>
+      sunmax: 3<br>
+      planetmax: 8<br>
+      minablemax: 6<br>
+      image: carina<br>
+      starradius: 100<br>
+      density: 5<br>
+      tries: 15<br>
+    </td>
+    <td width=200>
+      plugin:<br><a href="https://github.com/zuckung/ES-GalaxyGenerator/releases/download/Latest/Zigali0.zip">Zigali0.zip</a><br>
+      <br>
+      <br>
+      <a href="generated/Zigali0/MapGenSystems.txt">MapGenSystems.txt</a><br>
+      <a href="generated/Zigali0/MapGenPlanets.txt">MapGenPlanets.txt</a><br>
+      <a href="generated/Zigali0/MapGenStuff.txt">MapGenStuff.txt</a><br>
+    </td>
+    <td width=300>
+      <a href="generated/Zigali0/MapGenMap.jpg"> <img src='generated/Zigali0/miniMapGenMap.jpg' width='300'></a>
+    </td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td width=200>
       name: Oogibara<br>
       <br>
       pos: (59106, -1057)<br>
@@ -159,39 +192,6 @@ latest 5 generated galaxies:<br>
     </td>
     <td width=300>
       <a href="generated/zuckung1/MapGenMap.jpg"> <img src='generated/zuckung1/miniMapGenMap.jpg' width='300'></a>
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td width=200>
-      name: zuckung<br>
-      <br>
-      pos: (10000, 10000)<br>
-      systems: 100<br>
-      planets: 50<br>
-      races: 0<br>
-      wormhole: Sol<br>
-      sunmax: 3<br>
-      planetmax: 5<br>
-      minablemax: 3<br>
-      image: carina<br>
-      starradius: 100<br>
-      density: 5<br>
-      tries: 15<br>
-    </td>
-    <td width=200>
-      plugin:<br><a href="https://github.com/zuckung/ES-GalaxyGenerator/releases/download/Latest/zuckung3.zip">zuckung3.zip</a><br>
-      <br>
-      <br>
-      <a href="generated/zuckung3/MapGenSystems.txt">MapGenSystems.txt</a><br>
-      <a href="generated/zuckung3/MapGenPlanets.txt">MapGenPlanets.txt</a><br>
-      <a href="generated/zuckung3/MapGenStuff.txt">MapGenStuff.txt</a><br>
-    </td>
-    <td width=300>
-      <a href="generated/zuckung3/MapGenMap.jpg"> <img src='generated/zuckung3/miniMapGenMap.jpg' width='300'></a>
     </td>
   </tr>
 </table>
