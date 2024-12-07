@@ -1,0 +1,2646 @@
+planet "Orpheus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky7
+	description ``
+
+planet "Ferith"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava12
+	description ``
+
+planet "Benthia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water2
+	description ``
+
+planet "Surana"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach12-harro
+	description ``
+
+planet "Arkadia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain9
+	description ``
+
+planet "Typhon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow12
+	description ``
+
+planet "Fractal"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain13-sfiera
+	description ``
+
+planet "Alarion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars0
+	description ``
+
+planet "Icarus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water5
+	description ``
+
+planet "Xylar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands13
+	description ``
+
+planet "Atheria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands3
+	description ``
+
+planet "Darvus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain1
+	description ``
+
+planet "Ardinia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mercury1
+	description ``
+
+planet "Stardust"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow16
+	description ``
+
+planet "Xabia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars4
+	description ``
+
+planet "Omicron"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands7
+	description ``
+
+planet "Kythera"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl1
+	description ``
+
+planet "Weyland"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/turra
+	description ``
+
+planet "Faelar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava4
+	description ``
+
+planet "Vesta"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water25
+	description ``
+
+planet "Odyssey"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dune5
+	description ``
+
+planet "Unor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach10-sfiera
+	description ``
+
+planet "Berithon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon01
+	description ``
+
+planet "Ureon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky5
+	description ``
+
+planet "Uvion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain11-sfiera
+	description ``
+
+planet "Malachor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars4
+	description ``
+
+planet "Enthara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky0
+	description ``
+
+planet "Duranth"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert4
+	description ``
+
+planet "Scylla"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea1
+	description ``
+
+planet "Yalara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea0
+	description ``
+
+planet "Decoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dune5
+	description ``
+
+planet "Haldus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow24
+	description ``
+
+planet "Wraith"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach1
+	description ``
+
+planet "Zephyria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain9
+	description ``
+
+planet "Iridium"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow12
+	description ``
+
+planet "Ultima"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/haze1
+	description ``
+
+planet "Labyrinth"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach15
+	description ``
+
+planet "Zanarkand"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon10-harro
+	description ``
+
+planet "Meridian"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/methuselah
+	description ``
+
+planet "Ixora"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea23
+	description ``
+
+planet "Ydra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water3
+	description ``
+
+planet "Aquarion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert10-harro
+	description ``
+
+planet "Mnemosyne"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars1
+	description ``
+
+planet "Kronos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella5
+	description ``
+
+planet "Azimuth"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava12
+	description ``
+
+planet "Palladium"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog5
+	description ``
+
+planet "Mynara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon7
+	description ``
+
+planet "Ysoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach5
+	description ``
+
+planet "Felisar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach8-sfiera
+	description ``
+
+planet "Anthoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky3
+	description ``
+
+planet "Olympos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain0
+	description ``
+
+planet "Qyron"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava4
+	description ``
+
+planet "Veygar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain0
+	description ``
+
+planet "Warlock"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow25
+	description ``
+
+planet "Nexus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands0
+	description ``
+
+planet "Delvoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner4
+	description ``
+
+planet "Baxus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/valley2
+	description ``
+
+planet "Antariel"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava1
+	description ``
+
+planet "Oceara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain12-sfiera
+	description ``
+
+planet "Onyxia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner2
+	description ``
+
+planet "Galadriel"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert7
+	description ``
+
+planet "Nomad"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava9
+	description ``
+
+planet "Nova Prime"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow10-sfiera
+	description ``
+
+planet "Nocturne"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl3
+	description ``
+
+planet "Krynn"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water23
+	description ``
+
+planet "Veridian"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest1
+	description ``
+
+planet "Horizon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon01
+	description ``
+
+planet "Rapture"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain19-harro
+	description ``
+
+planet "Karion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea8
+	description ``
+
+planet "Goliath"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea15-harro
+	description ``
+
+planet "Luxor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow24
+	description ``
+
+planet "Golgotha"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/vulpa
+	description ``
+
+planet "Pyxis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow20
+	description ``
+
+planet "Jove"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water23
+	description ``
+
+planet "Yendor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain13-sfiera
+	description ``
+
+planet "Pythia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/nasa0
+	description ``
+
+planet "Tigris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills0
+	description ``
+
+planet "Korvax"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest7
+	description ``
+
+planet "Janara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest10
+	description ``
+
+planet "Jovar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert15
+	description ``
+
+planet "Juniper"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava3
+	description ``
+
+planet "Yara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Wyldwood"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain18-harro
+	description ``
+
+planet "Icegard"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner7
+	description ``
+
+planet "Vindemiatrix"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain11-sfiera
+	description ``
+
+planet "Cronalia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/valley2
+	description ``
+
+planet "Brontar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow13
+	description ``
+
+planet "Larimar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl5
+	description ``
+
+planet "Heliar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl0
+	description ``
+
+planet "Gaiarion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow4
+	description ``
+
+planet "Utopix"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills11
+	description ``
+
+planet "Kendor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills2
+	description ``
+
+planet "Halara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach7-sfiera
+	description ``
+
+planet "Xanthus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars1
+	description ``
+
+planet "Hathoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky6
+	description ``
+
+planet "Corvadia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea23
+	description ``
+
+planet "Hexagon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands4
+	description ``
+
+planet "Willowmere"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest0
+	description ``
+
+planet "Iridia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water6
+	description ``
+
+planet "Nibiru"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain17-harro
+	description ``
+
+planet "Janus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow17
+	description ``
+
+planet "Baltheon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach15
+	description ``
+
+planet "Soteria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/redias
+	description ``
+
+planet "Fidelis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/enceladus_4
+	description ``
+
+planet "Doriax"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert4
+	description ``
+
+planet "Kestrel"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain20-harro
+	description ``
+
+planet "Pandora"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava3
+	description ``
+
+planet "Cytheria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella7
+	description ``
+
+planet "Xylo"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills5-sfiera
+	description ``
+
+planet "Bygone"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/humo
+	description ``
+
+planet "Vesper"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava2
+	description ``
+
+planet "Thalos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water23
+	description ``
+
+planet "Quanta"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow10
+	description ``
+
+planet "Ymir"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills10
+	description ``
+
+planet "Jotar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain21-harro
+	description ``
+
+planet "Dystopia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_07
+	description ``
+
+planet "Intrepid"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/pia21553_1
+	description ``
+
+planet "Phoenix"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills1
+	description ``
+
+planet "Octavia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea16-harro
+	description ``
+
+planet "Uxor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky8
+	description ``
+
+planet "Peridot"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills8
+	description ``
+
+planet "Jura"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl5
+	description ``
+
+planet "Jupitara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/enceladus_3
+	description ``
+
+planet "Lachesis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars2
+	description ``
+
+planet "Axiomar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain17-harro
+	description ``
+
+planet "Watchtower"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Cragmor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky3
+	description ``
+
+planet "Remus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills4
+	description ``
+
+planet "Krios"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella4
+	description ``
+
+planet "Quintara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach13
+	description ``
+
+planet "Bregma"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner2
+	description ``
+
+planet "Sidonia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Thalia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky8
+	description ``
+
+planet "Quixia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain16-striker
+	description ``
+
+planet "Wisp"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain22-spfld
+	description ``
+
+planet "Nyx"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands2
+	description ``
+
+planet "Jardia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills5-sfiera
+	description ``
+
+planet "Luminor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea3
+	description ``
+
+planet "Moria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain0
+	description ``
+
+planet "Megara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon2
+	description ``
+
+planet "Aquivar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon1
+	description ``
+
+planet "Westeros"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow6
+	description ``
+
+planet "Sybaris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella4
+	description ``
+
+planet "Gargantua"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/haze1
+	description ``
+
+planet "Whisper"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands11
+	description ``
+
+planet "Urion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_05
+	description ``
+
+planet "Delphoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain29
+	description ``
+
+planet "Quixote"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow5
+	description ``
+
+planet "Kastra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow1
+	description ``
+
+planet "Fendara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/nasa8
+	description ``
+
+planet "Zephyrus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow4
+	description ``
+
+planet "Windara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water1
+	description ``
+
+planet "Draxar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl2
+	description ``
+
+planet "Maia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands7
+	description ``
+
+planet "Barastra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon05
+	description ``
+
+planet "Zathura"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon6
+	description ``
+
+planet "Zorath"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest0
+	description ``
+
+planet "Magnara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon5
+	description ``
+
+planet "Blazarus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/valley7
+	description ``
+
+planet "Glykon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow23
+	description ``
+
+planet "Zoltron"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky11
+	description ``
+
+planet "Centauria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow10-sfiera
+	description ``
+
+planet "Brilari"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/asteroid0
+	description ``
+
+planet "Xiphoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars3
+	description ``
+
+planet "Mykanos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water1
+	description ``
+
+planet "Fortuna"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella5
+	description ``
+
+planet "Gorgona"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach4
+	description ``
+
+planet "Zolara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_03
+	description ``
+
+planet "Lyricus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest1
+	description ``
+
+planet "Imbria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner1
+	description ``
+
+planet "Qintar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea2
+	description ``
+
+planet "Veyron"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain23-spfld
+	description ``
+
+planet "Exalia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands10
+	description ``
+
+planet "Celestara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky2
+	description ``
+
+planet "Sigma"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain7
+	description ``
+
+planet "Azuron"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water21
+	description ``
+
+planet "Lantia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/humo
+	description ``
+
+planet "Hemera"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow10
+	description ``
+
+planet "Valtor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog8
+	description ``
+
+planet "Umber"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon7
+	description ``
+
+planet "Ivoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Siren"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow22
+	description ``
+
+planet "Hegira"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water2
+	description ``
+
+planet "Zentauri"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava4
+	description ``
+
+planet "Quenda"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky10
+	description ``
+
+planet "Calibris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog8
+	description ``
+
+planet "Forsaken"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills6-sfiera
+	description ``
+
+planet "Infinitum"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky12
+	description ``
+
+planet "Phaedra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava5
+	description ``
+
+planet "Umbriel"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach5
+	description ``
+
+planet "Xanar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow14
+	description ``
+
+planet "Fenris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars1
+	description ``
+
+planet "Lyrae"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog0
+	description ``
+
+planet "Freyara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella5
+	description ``
+
+planet "Dorado"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea21
+	description ``
+
+planet "Morpheus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava14
+	description ``
+
+planet "Vanth"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_07
+	description ``
+
+planet "Hyperborea"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon7
+	description ``
+
+planet "Ragnarok"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain18-harro
+	description ``
+
+planet "Sargas"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills1
+	description ``
+
+planet "Nubia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow12
+	description ``
+
+planet "Candoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands3
+	description ``
+
+planet "Glacius"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach13
+	description ``
+
+planet "Netheria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest9
+	description ``
+
+planet "Unara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/gliese
+	description ``
+
+planet "Kyros"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl0
+	description ``
+
+planet "Talos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea3
+	description ``
+
+planet "Pallas"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds10
+	description ``
+
+planet "Evron"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills5-sfiera
+	description ``
+
+planet "Erudon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky4
+	description ``
+
+planet "Ferrovia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/nasa0
+	description ``
+
+planet "Kalaron"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain26
+	description ``
+
+planet "Beldar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow13
+	description ``
+
+planet "Rosetta"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella7
+	description ``
+
+planet "Zebes"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky7
+	description ``
+
+planet "Exotara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest0
+	description ``
+
+planet "Halcyon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest5
+	description ``
+
+planet "Equinoxar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water8
+	description ``
+
+planet "Zorion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands11
+	description ``
+
+planet "Cenarion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow10-sfiera
+	description ``
+
+planet "Mirandus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea9
+	description ``
+
+planet "Persephone"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow6
+	description ``
+
+planet "Calyptrix"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/enceladus_3
+	description ``
+
+planet "Yonder"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water23
+	description ``
+
+planet "Proteus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/aera
+	description ``
+
+planet "Nereus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach4
+	description ``
+
+planet "Gamma Prime"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava12
+	description ``
+
+planet "Selenia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Harmonia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dune1
+	description ``
+
+planet "Quintessia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog7
+	description ``
+
+planet "Waverider"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands11
+	description ``
+
+planet "Romulus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills7-harro
+	description ``
+
+planet "Zypheria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava10
+	description ``
+
+planet "Logos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_02
+	description ``
+
+planet "Umbra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow18
+	description ``
+
+planet "Gaianox"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow17
+	description ``
+
+planet "Yesteryear"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella7
+	description ``
+
+planet "Nymeria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain1
+	description ``
+
+planet "Jovial"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava1
+	description ``
+
+planet "Dionara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain12-sfiera
+	description ``
+
+planet "Xendra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/valley0
+	description ``
+
+planet "Thalassa"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon11
+	description ``
+
+planet "Tarvos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach4
+	description ``
+
+planet "Imperia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow8
+	description ``
+
+planet "Uncia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea19
+	description ``
+
+planet "Jotunheim"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon5
+	description ``
+
+planet "Yara-Ma"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert12
+	description ``
+
+planet "Yavin"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands1
+	description ``
+
+planet "Jaspar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea3
+	description ``
+
+planet "Rhodium"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky5
+	description ``
+
+planet "Mordor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water6
+	description ``
+
+planet "Rhadamanthus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach14
+	description ``
+
+planet "Niflheim"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water5
+	description ``
+
+planet "Volturnus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands1
+	description ``
+
+planet "Xolotl"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills4
+	description ``
+
+planet "Krypton"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner6
+	description ``
+
+planet "Vela"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain10-sfiera
+	description ``
+
+planet "Leviathan"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava14
+	description ``
+
+planet "Dronia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach13
+	description ``
+
+planet "Quasar Prime"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon12
+	description ``
+
+planet "Andoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow13
+	description ``
+
+planet "Utopian"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow7
+	description ``
+
+planet "Windermere"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow14
+	description ``
+
+planet "Rosalind"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon05
+	description ``
+
+planet "Denebola"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands6
+	description ``
+
+planet "Bravara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands4
+	description ``
+
+planet "Aureon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon11
+	description ``
+
+planet "Nebulon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_05
+	description ``
+
+planet "Chronosia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow10-sfiera
+	description ``
+
+planet "Pyrope"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog5
+	description ``
+
+planet "Titan"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava5
+	description ``
+
+planet "Ypsilon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner1
+	description ``
+
+planet "Kaspian"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/valley8
+	description ``
+
+planet "Vortex"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner4
+	description ``
+
+planet "Zandar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water21
+	description ``
+
+planet "Tropica"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky8
+	description ``
+
+planet "Hypernova"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow12
+	description ``
+
+planet "Solarion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain18-harro
+	description ``
+
+planet "Rigel"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow14
+	description ``
+
+planet "Wisteria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain16-striker
+	description ``
+
+planet "Winterfell"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach4
+	description ``
+
+planet "Vertex"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars1
+	description ``
+
+planet "Xantheus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain13-sfiera
+	description ``
+
+planet "Saturnalia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands10
+	description ``
+
+planet "Kairon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow1
+	description ``
+
+planet "Whitehaven"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon03
+	description ``
+
+planet "Fantara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon15
+	description ``
+
+planet "Jaxom"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert12
+	description ``
+
+planet "Oracle"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands3
+	description ``
+
+planet "Borendor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert11
+	description ``
+
+planet "Eldoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars1
+	description ``
+
+planet "Goroth"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest0
+	description ``
+
+planet "Lumina"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava13
+	description ``
+
+planet "Exilis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain5
+	description ``
+
+planet "Psyche"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea13-sfiera
+	description ``
+
+planet "Hathor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon12
+	description ``
+
+planet "Bastionis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/valley7
+	description ``
+
+planet "Polaris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky8
+	description ``
+
+planet "Ra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert2
+	description ``
+
+planet "Ys"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dune5
+	description ``
+
+planet "Solara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars2
+	description ``
+
+planet "Xanterra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/enceladus_4
+	description ``
+
+planet "Prisma"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain25-spfld
+	description ``
+
+planet "Rhea"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach1
+	description ``
+
+planet "Xanadu"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner1
+	description ``
+
+planet "Lacerta"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands0
+	description ``
+
+planet "Jubilee"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/methuselah
+	description ``
+
+planet "Pegasus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea17-harro
+	description ``
+
+planet "Oaken"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain11-sfiera
+	description ``
+
+planet "Junonia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain8
+	description ``
+
+planet "Quercus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea7
+	description ``
+
+planet "Floralis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert3
+	description ``
+
+planet "Draconis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/turra
+	description ``
+
+planet "Gilese"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach13
+	description ``
+
+planet "Orenda"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dune1
+	description ``
+
+planet "Myrth"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella3
+	description ``
+
+planet "Xenia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/aera
+	description ``
+
+planet "Poseidon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea1
+	description ``
+
+planet "Ursa"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills7-harro
+	description ``
+
+planet "Fluxar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea8
+	description ``
+
+planet "Triton"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon03
+	description ``
+
+planet "Hyperion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach8-sfiera
+	description ``
+
+planet "Cindar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow4
+	description ``
+
+planet "Xanthe"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl1
+	description ``
+
+planet "Valoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_00
+	description ``
+
+planet "Volaris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava7-sfiera
+	description ``
+
+planet "Infinia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/nasa9
+	description ``
+
+planet "Trantor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl2
+	description ``
+
+planet "Lorelei"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Stratos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog5
+	description ``
+
+planet "Vortexia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea17-harro
+	description ``
+
+planet "Aeternus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog11
+	description ``
+
+planet "Isolus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain9
+	description ``
+
+planet "Sylvanus"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea2
+	description ``
+
+planet "Tethys"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner4
+	description ``
+
+planet "Oberon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach7-sfiera
+	description ``
+
+planet "Yavanna"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava2
+	description ``
+
+planet "Faelum"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon02
+	description ``
+
+planet "Indra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water19
+	description ``
+
+planet "Grimoire"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea0
+	description ``
+
+planet "Tyche"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow3
+	description ``
+
+planet "Ryloth"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water5
+	description ``
+
+planet "Elvaris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow5
+	description ``
+
+planet "Xenon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/water19
+	description ``
+
+planet "Styx"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow2
+	description ``
+
+planet "Qamaris"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon9
+	description ``
+
+planet "Clorion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog2
+	description ``
+
+planet "Quorra"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/pia21553_1
+	description ``
+
+planet "Luminara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills8
+	description ``
+
+planet "Quantum"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_01
+	description ``
+
+planet "Xylia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon01
+	description ``
+
+planet "Caelumara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dmottl2
+	description ``
+
+planet "Calidorn"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest4
+	description ``
+
+planet "Myriad"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon6
+	description ``
+
+planet "Nymphaea"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands6
+	description ``
+
+planet "Avalara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/methuselah
+	description ``
+
+planet "Uralia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert14
+	description ``
+
+planet "Faeon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands5
+	description ``
+
+planet "Metis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/badlands0
+	description ``
+
+planet "Polymath"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow2
+	description ``
+
+planet "Draculon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dune0
+	description ``
+
+planet "Saphira"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog7
+	description ``
+
+planet "Cygnara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky12
+	description ``
+
+planet "Unica"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert2
+	description ``
+
+planet "Mysteria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/lava13
+	description ``
+
+planet "Tesseract"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain9
+	description ``
+
+planet "Dorvian"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow8
+	description ``
+
+planet "Ultramar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain20-harro
+	description ``
+
+planet "Inertia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/valley3
+	description ``
+
+planet "Thera"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/hills0
+	description ``
+
+planet "Paladia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds_00
+	description ``
+
+planet "Varuna"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/methuselah
+	description ``
+
+planet "Dantara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain5
+	description ``
+
+planet "Quasarix"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Heimdall"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert13
+	description ``
+
+planet "Eterna"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea9
+	description ``
+
+planet "Neutronia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/clouds10
+	description ``
+
+planet "Rivendell"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner2
+	description ``
+
+planet "Somnium"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/desert8-sfiera
+	description ``
+
+planet "Nydoria"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/snow18
+	description ``
+
+planet "Hibernia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain29
+	description ``
+
+planet "Lyonesse"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon8
+	description ``
+
+planet "Sirenum"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest8
+	description ``
+
+planet "Farion"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/canyon05
+	description ``
+
+planet "Xylonia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/beach4
+	description ``
+
+planet "Galathor"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky6
+	description ``
+
+planet "Qamar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner4
+	description ``
+
+planet "Dreon"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog3
+	description ``
+
+planet "Illara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mountain22-spfld
+	description ``
+
+planet "Arctara"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella2
+	description ``
+
+planet "Paxos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella0
+	description ``
+
+planet "Borakar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog9
+	description ``
+
+planet "Ethos"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/myrabella8
+	description ``
+
+planet "Dravonia"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/bwerner4
+	description ``
+
+planet "Galatea"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/dune3
+	description ``
+
+planet "Oort"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/forest0
+	description ``
+
+planet "Cygnus Prime"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sea22
+	description ``
+
+planet "Ferros"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/fog3
+	description ``
+
+planet "Oxalis"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/gliese
+	description ``
+
+planet "Rhaegal"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/sky10
+	description ``
+
+planet "Duskar"
+	attributes uninhabited carina
+	government "Uninhabited"
+	landscape land/mars4
+	description ``
+
+planet "Yulan"
+	attributes carina
+	landscape land/city1
+
+	shipyard "bsg galactica"
+	outfitter "Basic Outfits"
+	outfitter "Common Outfits"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Central Outfits Expansion"
+	outfitter "Northern Explorers"
+	outfitter "Deep Sky Basics"
+	outfitter "Deep Sky Advanced"
+	outfitter "Lovelace Basics"
+	outfitter "Lovelace Advanced"
+	outfitter "Lovelace Security"
+	outfitter "Delta V Basics"
+	outfitter "Delta V Advanced"
+	outfitter "Syndicate Basics"
+	outfitter "Syndicate Advanced"
+	outfitter "Syndicated Security"
+	outfitter "Kraz Basics"
+	outfitter "Kraz Advanced"
+	outfitter "FW Security"
+	outfitter "Pirate Basics"
+	outfitter "Pirate Advanced"
+	outfitter "South Pirate Advanced"
+	outfitter "Syndicate Assistance"
+	outfitter "Stack Core"
+	outfitter "Nuke"
+	spaceport ``
+	description `This is the capital of Picon.`
+
+planet "Xypheron"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Picon.`
+
+planet "Wraithworld"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Picon.`
+
+planet "Quivira"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Picon.`
+
+planet "Rubicon"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Picon.`
+
+planet "Zaltron"
+	attributes carina
+	landscape land/city1
+
+	shipyard "bsg galactica"
+	outfitter "Basic Outfits"
+	outfitter "Common Outfits"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Central Outfits Expansion"
+	outfitter "Northern Explorers"
+	outfitter "Deep Sky Basics"
+	outfitter "Deep Sky Advanced"
+	outfitter "Lovelace Basics"
+	outfitter "Lovelace Advanced"
+	outfitter "Lovelace Security"
+	outfitter "Delta V Basics"
+	outfitter "Delta V Advanced"
+	outfitter "Syndicate Basics"
+	outfitter "Syndicate Advanced"
+	outfitter "Syndicated Security"
+	outfitter "Kraz Basics"
+	outfitter "Kraz Advanced"
+	outfitter "FW Security"
+	outfitter "Pirate Basics"
+	outfitter "Pirate Advanced"
+	outfitter "South Pirate Advanced"
+	outfitter "Syndicate Assistance"
+	outfitter "Stack Core"
+	outfitter "Nuke"
+	spaceport ``
+	description `This is the capital of Libran.`
+
+planet "Heliopolis"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Libran.`
+
+planet "Ganymede"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Libran.`
+
+planet "Xerxes"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Libran.`
+
+planet "Naiad"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Libran.`
+
+planet "Zytan"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Libran.`
+
+planet "Illyria"
+	attributes carina
+	landscape land/city1
+
+	shipyard "bsg galactica"
+	outfitter "Basic Outfits"
+	outfitter "Common Outfits"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Central Outfits Expansion"
+	outfitter "Northern Explorers"
+	outfitter "Deep Sky Basics"
+	outfitter "Deep Sky Advanced"
+	outfitter "Lovelace Basics"
+	outfitter "Lovelace Advanced"
+	outfitter "Lovelace Security"
+	outfitter "Delta V Basics"
+	outfitter "Delta V Advanced"
+	outfitter "Syndicate Basics"
+	outfitter "Syndicate Advanced"
+	outfitter "Syndicated Security"
+	outfitter "Kraz Basics"
+	outfitter "Kraz Advanced"
+	outfitter "FW Security"
+	outfitter "Pirate Basics"
+	outfitter "Pirate Advanced"
+	outfitter "South Pirate Advanced"
+	outfitter "Syndicate Assistance"
+	outfitter "Stack Core"
+	outfitter "Nuke"
+	spaceport ``
+	description `This is the capital of Scorpia.`
+
+planet "Damaris"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Scorpia.`
+
+planet "Mortara"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Scorpia.`
+
+planet "Shadowfax"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Scorpia.`
+
+planet "Levitha"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Scorpia.`
+
+planet "Merak"
+	attributes carina
+	landscape land/city1
+
+	shipyard "bsg galactica"
+	outfitter "Basic Outfits"
+	outfitter "Common Outfits"
+	outfitter "Ammo North"
+	outfitter "Ammo South"
+	outfitter "Central Outfits Expansion"
+	outfitter "Northern Explorers"
+	outfitter "Deep Sky Basics"
+	outfitter "Deep Sky Advanced"
+	outfitter "Lovelace Basics"
+	outfitter "Lovelace Advanced"
+	outfitter "Lovelace Security"
+	outfitter "Delta V Basics"
+	outfitter "Delta V Advanced"
+	outfitter "Syndicate Basics"
+	outfitter "Syndicate Advanced"
+	outfitter "Syndicated Security"
+	outfitter "Kraz Basics"
+	outfitter "Kraz Advanced"
+	outfitter "FW Security"
+	outfitter "Pirate Basics"
+	outfitter "Pirate Advanced"
+	outfitter "South Pirate Advanced"
+	outfitter "Syndicate Assistance"
+	outfitter "Stack Core"
+	outfitter "Nuke"
+	spaceport ``
+	description `This is the capital of Aerilon.`
+
+planet "Xiphos"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Aerilon.`
+
+planet "Mithrion"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Aerilon.`
+
+planet "Ignisar"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Aerilon.`
+
+planet "Ionix"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Aerilon.`
+
+planet "Aldoria"
+	attributes carina
+	landscape land/city1
+	spaceport ``
+	description `This is a colony of Aerilon.`
+
