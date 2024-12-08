@@ -1,0 +1,60 @@
+planet "Krios"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/sky13
+	description ``
+
+planet "Quorra"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/beach3
+	description ``
+
+planet "Pyrope"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/pia21553_2
+	description ``
+
+planet "Naiad"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/treser
+	description ``
+
+planet "Nox"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/valley2
+	description ``
+
+planet "Geminon"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/fog12
+	description ``
+
+planet "Wispwood"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/fog7
+	description ``
+
+planet "Ithoria"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/mountain0
+	description ``
+
+planet "Fyrestone"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/snow18
+	description ``
+
+planet "Hyacinth"
+	attributes uninhabited messier
+	government "Uninhabited"
+	landscape land/canyon01
+	description ``
+

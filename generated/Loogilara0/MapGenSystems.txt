@@ -1,0 +1,205 @@
+system "Alcor"
+	pos -501680 69105
+	government "Uninhabited"
+	arrival 869
+	habitable 917
+	belt 1407
+	minables uranium 9 4
+	minables silicon 23 8
+	link "Keid"
+	link "Diadem"
+	object
+		sprite "star/f-giant"
+		distance 308
+		period 10
+		offset 180
+	object
+		sprite "planet/browndwarf-l-rogue"
+		distance 482
+		period 13
+	object
+		sprite planet/ocean8-b
+		distance 822
+		period 976
+	object "Mysterious Wormhole"
+		sprite planet/wormhole-red
+		distance 1000
+		period 1
+	object "Quorra"
+		sprite planet/rock12-b
+		distance 1174
+		period 1485
+
+system "Keid"
+	pos -501670 69006
+	government "Uninhabited"
+	arrival 514
+	habitable 546
+	belt 1094
+	minables uranium 24 10
+	link "Alcor"
+	link "Diadem"
+	link "Zeta Pegasi"
+	object
+		sprite "star/o-giant"
+		period 12
+	object "Pyrope"
+		sprite planet/rock15
+		distance 678
+		period 1383
+	object "Naiad"
+		sprite planet/lava1-b
+		distance 798
+		period 552
+	object
+		sprite planet/desert5-b
+		distance 1112
+		period 1458
+	object
+		sprite planet/neptune-b
+		distance 1278
+		period 1230
+	object
+		sprite planet/ice5
+		distance 2487
+		period 1242
+
+system "Diadem"
+	pos -501766 69032
+	government "Uninhabited"
+	arrival 981
+	habitable 732
+	belt 1393
+	minables titanium 23 9
+	minables aluminum 18 3
+	link "Alcor"
+	link "Keid"
+	link "Zeta Pegasi"
+	link "Alpha Aquilae"
+	object
+		sprite "star/f8"
+		period 10
+	object
+		sprite planet/uranus-b
+		distance 1008
+		period 1351
+	object "Nox"
+		sprite planet/gas2
+		distance 1225
+		period 948
+	object
+		sprite planet/rock11
+		distance 3753
+		period 1495
+	object
+		sprite planet/ice7
+		distance 3898
+		period 812
+
+system "Zeta Pegasi"
+	pos -501803 68940
+	government "Uninhabited"
+	arrival 688
+	habitable 896
+	belt 1118
+	minables lead 18 4
+	link "Keid"
+	link "Diadem"
+	link "Alpha Aquilae"
+	link "Pleione"
+	object
+		sprite "star/g5"
+		distance 125
+		period 14
+	object
+		sprite "planet/rogue-radiating"
+		distance 246
+		period 15
+		offset 180
+	object
+		sprite planet/mercury
+		distance 1090
+		period 781
+	object "Geminon"
+		sprite planet/ice1-b
+		distance 1336
+		period 1112
+	object "Wispwood"
+		sprite planet/venus
+		distance 1702
+		period 823
+	object
+		sprite planet/rock14-b
+		distance 1735
+		period 1403
+
+system "Alpha Aquilae"
+	pos -501898 68970
+	government "Uninhabited"
+	arrival 528
+	habitable 1116
+	belt 1664
+	minables tungsten 8 7
+	minables lead 15 5
+	link "Diadem"
+	link "Zeta Pegasi"
+	link "Pleione"
+	object
+		sprite "star/k5-old"
+		period 14
+	object
+		sprite planet/gas2
+		distance 1332
+		period 1370
+	object "Ithoria"
+		sprite planet/lava1-b
+		distance 1526
+		period 1218
+
+system "Pleione"
+	pos -501910 68871
+	government "Uninhabited"
+	arrival 1127
+	habitable 630
+	belt 1460
+	minables neodymium 13 10
+	minables copper 12 7
+	link "Zeta Pegasi"
+	link "Alpha Aquilae"
+	link "Danfeng"
+	object
+		sprite "star/a5"
+		period 14
+	object
+		sprite planet/rock7-b
+		distance 675
+		period 949
+	object "Fyrestone"
+		sprite planet/oberon-b
+		distance 1911
+		period 1343
+
+system "Danfeng"
+	pos -502008 68856
+	government "Uninhabited"
+	arrival 863
+	habitable 708
+	belt 1340
+	minables silicon 23 8
+	link "Pleione"
+	object
+		sprite "star/k-supergiant"
+		period 14
+	object "Krios"
+		sprite planet/ice4-b
+		distance 677
+		period 1416
+	object "Hyacinth"
+		sprite planet/gas2-hot
+		distance 1319
+		period 905
+	object
+		sprite planet/io
+		distance 2535
+		period 641
+
